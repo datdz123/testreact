@@ -5,6 +5,7 @@ import Acount from '../Acount';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import * as Icon from "react-native-feather";
 import Home from '../HomeScreen';
+import Cart from '../Cart';
 
 
 export default function BottomNavigator() {
