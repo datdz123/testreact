@@ -116,7 +116,7 @@ const Intro = ({ navigation }) => {
 
                     <Button
                         title="Join Now"
-                        onPress={() => navigation.navigate("Signin")}
+                        onPress={() => navigation.navigate("Home")}
                         style={{
                             marginTop: 22,
                             width: "100%"
